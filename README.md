@@ -49,9 +49,18 @@ After deploying your application, it's crucial to update deployment statuses in 
 
 <details>
   <summary><h2>Results<h2></summary>
+  Deployments within Jira ticket
+
   ![Deployments withing Jira ticket](./images/jira1.png)
+
+  Deployments tab
+
   ![Deployments tab](./images/jira2.png)
+
+  Ticket status indicator
+
   ![Ticket status indicator](images/jira3.png)
+
 </details>
 
 ## Resources
